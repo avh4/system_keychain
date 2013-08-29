@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'system_keychain'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.date        = "#{Time.now.strftime '%Y-%m-%d'}"
   s.summary     = "System Keychain"
   s.description = "Store account credentials in the OS keychain"
