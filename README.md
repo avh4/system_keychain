@@ -1,4 +1,5 @@
 [![Build Status](https://secure.travis-ci.org/avh4/system_keychain.png?branch=master)](http://travis-ci.org/avh4/system_keychain)
+[![Code Climate](https://codeclimate.com/github/avh4/system_keychain.png)](https://codeclimate.com/github/avh4/system_keychain)
 
 ## How it works
 
