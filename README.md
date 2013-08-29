@@ -44,7 +44,7 @@ Any code that needs a username/password can be executed in the `Keychain.authori
 require 'system_keychain'
 
 Keychain.authorize("My Cool App", "myapp") do |user, pass|
-  curl -u "#{user}:#{password}" http://secure.example.com
+  puts `curl -u "#{user}:#{password}" http://secure.example.com`
 end
 ```
 
