@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "Store account credentials in the OS keychain"
   s.authors     = ["Aaron VonderHaar"]
   s.email       = 'gruen0aermel@gmail.com'
-  s.homepage    = 'http://rubygems.org/gems/system_keychain'
+  s.homepage    = 'http://github.com/avh4/system_keychain'
   s.license     = 'MIT'
 
   s.add_dependency('colorize', '>= 0.5.8')
