@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    system_keychain (0.0.0)
+    system_keychain (1.0.1)
       colorize (>= 0.5.8)
       highline (>= 1.6.19)
 
