@@ -1,4 +1,3 @@
-[![Gem Version](https://badge.fury.io/rb/system_keychain.png)](http://badge.fury.io/rb/system_keychain)
 [![Build Status](https://secure.travis-ci.org/avh4/system_keychain.png?branch=master)](http://travis-ci.org/avh4/system_keychain)
 [![Code Climate](https://codeclimate.com/github/avh4/system_keychain.png)](https://codeclimate.com/github/avh4/system_keychain)
 [![Dependency Status](https://gemnasium.com/avh4/system_keychain.png)](https://gemnasium.com/avh4/system_keychain)
@@ -13,7 +12,7 @@ When you use `Keychain.authorize` or `Keychain.authorize_url`, you provide two t
 4. If your block raises a `StandardError`, the credentials will be removed from the keychain and the user is asked to enter credentials again.
 5. If your block completes successfully, the return value of your block is returned.
 
-## Installation
+## Installation [![Gem Version](https://badge.fury.io/rb/system_keychain.png)](http://badge.fury.io/rb/system_keychain)
 
 ```bash
 gem install system_keychain
