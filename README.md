@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/system_keychain.png)](http://badge.fury.io/rb/system_keychain)
 [![Build Status](https://secure.travis-ci.org/avh4/system_keychain.png?branch=master)](http://travis-ci.org/avh4/system_keychain)
 [![Code Climate](https://codeclimate.com/github/avh4/system_keychain.png)](https://codeclimate.com/github/avh4/system_keychain)
 [![Dependency Status](https://gemnasium.com/avh4/system_keychain.png)](https://gemnasium.com/avh4/system_keychain)
